@@ -7,7 +7,7 @@ through this process. Additionally, I like video games and have played chess pro
 
 ### Currently Learning: raylib game library <img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_1024x1024.png" alt="Raylib icon" width="50" />
 
-By using this libtary I have found that it is very intuitive and light in it's contents. Using this library, I have created multiple interest projects such as a
+By using this library I have found that it is very intuitive and light in it's contents. Using this library, I have created multiple interest projects such as a
 game of life simulator, and I am currently working on a role playing game inspired by my favorite story of all time: <b> Re:Zero </b>
 
 ### Important Projects:
