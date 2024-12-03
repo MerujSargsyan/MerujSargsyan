@@ -18,9 +18,9 @@ game of life simulator, and I am currently working on a role playing game inspir
     REPO: https://github.com/MerujSargsyan/GraphVIS
   </li>
   <li>
-    <b>Jaylib</b><br>
-    Contributed to an existing Java binding for the raylib game design library.<br>
-    REPO: https://github.com/electronstudio/jaylib
+    <b>FlapJS</b><br>
+    Contributed heavly, creating a completely new and helpful feature for Latex compatability <br>
+    REPO: https://github.com/flapjs/vanilla
   </li>
   <li>
     <b>Personal memory allocator</b>
