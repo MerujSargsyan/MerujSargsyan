@@ -5,6 +5,8 @@ I am an imigrant from Armenia who is working hard to achieve greatness. I am cur
 I enjoy programming recreationally, meaning that I creat eprojects I am interested in and although I may not finish most of them, I always learn a lot
 through this process. Additionally, I like video games and have played chess professionally.
 
+### Education: UCSD 2022 - 2025, Math/Computer Science <img src="https://freebiesupply.com/logos/ucsd-tritons-logo/" width="50" />
+
 ### Currently Learning: raylib game library <img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_1024x1024.png" alt="Raylib icon" width="50" />
 
 By using this library I have found that it is very intuitive and light in it's contents. Using this library, I have created multiple interest projects such as a
