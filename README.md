@@ -21,7 +21,7 @@ game of life simulator, and I am currently working on a role playing game inspir
   </li>
   <li>
     <b>FlapJS</b><br>
-    Contributed heavly, creating a completely new and helpful feature for Latex compatability <br>
+    Contributed heavly, creating a completely new and helpful feature for Latex compatability for CSE 105 students at UCSD <br>
     REPO: https://github.com/flapjs/vanilla
   </li>
   <li>
@@ -36,6 +36,7 @@ game of life simulator, and I am currently working on a role playing game inspir
 
 ### Contact:
 
-I am always reachable through the email: sargsyanmeruzhan48@gmail.com
+I am always reachable through the email: sargsyanmeruzhan48@gmail.com,
+and through the phone number: +1 (818) 448-1440
 
 # Thank You! Have a great day!
