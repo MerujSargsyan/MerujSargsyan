@@ -36,7 +36,6 @@ game of life simulator, and I am currently working on a role playing game inspir
 
 ### Contact:
 
-I am always reachable through the email: sargsyanmeruzhan48@gmail.com,
-and through the phone number: +1 (818) 448-1440
+I am always reachable through the email: sargsyanmeruzhan48@gmail.com.
 
 # Thank You! Have a great day!
