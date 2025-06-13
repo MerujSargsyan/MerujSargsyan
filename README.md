@@ -1,41 +1,64 @@
-# Hi, I am Meruzhan Sargsyan 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenian flag" width="30" />
+# Hi, I am Meruzhan Sargsyan <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg" alt="Armenian flag" width="30" />
 
-I am an imigrant from Armenia who is working hard to achieve greatness. I am currently a <b> senior student at UCSD </b> with a GPA of <b> ~3.6 </b>
-I enjoy programming recreationally, meaning that I creat eprojects I am interested in and although I may not finish most of them, I always learn a lot
-through this process. Additionally, I like video games and have played chess professionally.
+### 👨‍💻 About Me and My Skills
+- I am a passionate builder and problem solver.
+- **Specialized in backend development**, with a focus on architecture, planning, and building complex systems.
+- I build in a **reliable** and **maintainable** way.
+- I am highly **driven, responsible**, and always strive for **perfection** in everything I do.
 
-### Education: UCSD 2022 - 2025, Math/Computer Science
+### 🤝 My Leadership
+Through leadership roles and opportunities:
+- I’ve found myself to be a **capable and resourceful leader**.
+- I constantly seek to grow and inspire others through team collaboration.
+- I led a team of 10 developers to create an MVP for a web-based puzzle game in a short time frame.
+- I’ve learned how to **plan effectively, delegate tasks**, and lead by example.
+- I’m currently working on becoming more **assertive** to become the best leader I can be.
 
-### Currently Learning: raylib game library <img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_1024x1024.png" alt="Raylib icon" width="50" />
+### 🌱 Growth & The Future
+My GitHub page reflects my journey as a developer:
+- I started by writing hacky tools and passion projects for fun.
+- After taking advanced **software design** courses, I now **plan carefully** before writing any code.
+- This shift will echo through my future career and every project I take on.
+- I always **strive to improve** and challenge assumptions deeply.
 
-By using this library I have found that it is very intuitive and light in it's contents. Using this library, I have created multiple interest projects such as a
-game of life simulator, and I am currently working on a role playing game inspired by my favorite story of all time: <b> Re:Zero </b>
+### 🎓 Education
+**University of California, San Diego**  
+B.S. in Mathematics & Computer Science  
+📅 2022 – 2025
 
-### Important Projects:
-<ul>
-  <li>
-    <b>GraphVIS</b><br>
-    This is a very simple tool for drawing graphs which are studied and CS and Graph Theory.<br>
-    REPO: https://github.com/MerujSargsyan/GraphVIS
-  </li>
-  <li>
-    <b>FlapJS</b><br>
-    Contributed heavly, creating a completely new and helpful feature for Latex compatability for CSE 105 students at UCSD <br>
-    REPO: https://github.com/flapjs/vanilla
-  </li>
-  <li>
-    <b>Personal memory allocator</b>
-    Created a memory allocator during CSE 29 class at UCSD.
-    LINK: https://cse29sp24.github.io/docs/pas/pa5.html (I was not allowed to create a public repo)
-  </li>
-</ul>
+---
 
-### Notable programming languages:  
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript logo" width="50" />        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C logo" width="50" />      <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java logo" width="50" />
+### 🚀 Notable Projects
 
-### Contact:
+#### 🛢️ **SQL Engine**
+- Collaborated with a partner to build a SQL-style **database engine** from scratch.
+- Supports common SQL features and **persistent on-disk storage**.
+- Plan to turn it into a **web-accessible tool** via AWS for easier demos.
+- 🔗 [Read more about the process](https://www.linkedin.com/feed/update/urn:li:activity:7337688965468114945/)
 
-I am always reachable through the email: sargsyanmeruzhan48@gmail.com.
+#### 🔁 **FLAP.js Contribution**
+- 💡 **Problem:** Submitting automata diagrams in LaTeX was tedious and slow.
+- 🛠️ **Solution:** Added a button to export state diagrams directly into LaTeX using the MKTEX library.
+- 🤝 Contributed the feature to the **open source** FLAP.js project.
+- 👨‍🏫 Used by hundreds of CSE 105 students at UCSD, with millions more to come!
+- 🔗 [Try it live](https://flapjs.web.app/) (Create diagram → Save → LaTeX → paste into editor)
 
-# Thank You! Have a great day!
+---
+
+### 🔭 Current Endeavors
+- Deep dive into **modern C++**
+- Building a **web frontend** for my SQL engine and deploying to AWS
+- Practicing algorithm problems on **LeetCode**
+
+---
+
+### 📬 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/meruzhan-sargsyan-580b182b2)
+- 📧 Email: sargsyanmeruzhan48@gmail.com
+
+---
+
+# 🙏 Thank You!  
+Have a great day and thanks for visiting my page!
+
+
