@@ -37,11 +37,11 @@ B.S. in Mathematics & Computer Science
 - 🔗 [Read more about the process](https://www.linkedin.com/feed/update/urn:li:activity:7337688965468114945/)
 
 #### 🔁 **FLAP.js Contribution**
-- 💡 **Problem:** Submitting automata diagrams in LaTeX was tedious and slow.
-- 🛠️ **Solution:** Added a button to export state diagrams directly into LaTeX using the MKTEX library.
-- 🤝 Contributed the feature to the **open source** FLAP.js project.
-- 👨‍🏫 Used by hundreds of CSE 105 students at UCSD, with millions more to come!
-- 🔗 [Try it live](https://flapjs.web.app/) (Create diagram → Save → LaTeX → paste into editor)
+- **Problem:** Submitting automata diagrams in LaTeX was tedious and slow.
+- **Solution:** Added a button to export state diagrams directly into LaTeX using the MKTEX library.
+- Contributed the feature to the **open source** FLAP.js project.
+- Used by hundreds of CSE 105 students at UCSD, with millions more to come!
+- [Try it live](https://flapjs.web.app/) (Create diagram → Save → LaTeX → paste into editor)
 
 ---
 
